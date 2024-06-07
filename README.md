@@ -1,4 +1,4 @@
-## whisper-turbo: Cross-Platform, GPU Accelerated Whisper üèéÔ∏è
+## whisper-turbo: Cross-Platform, GPU Accelerated Whisper
 https://github.com/FL33TW00D/whisper-turbo
 
 ## SOUL: The SOUL programming language and API
